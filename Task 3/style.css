@@ -58,4 +58,18 @@
   padding: 30px;
   border-radius: 5px;
   background-color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.output-cointainer #output div{
+  
+  width: 50%;
+  height: 100%;
+
+
+}
+.output-cointainer #output div img{
+  width: 100%;
 }
