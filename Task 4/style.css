@@ -27,3 +27,17 @@
   margin-top: 50px;
   color: #333;
 }
+
+#output > div > div{
+  background-color: rgb(250, 219, 128);
+  padding: 1rem;
+
+}
+
+#output h1{
+  background-color: rgb(250, 128, 128);
+}
+
+#output h2{
+  background-color: rgb(250, 219, 128);
+}
