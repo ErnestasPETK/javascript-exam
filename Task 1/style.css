@@ -63,3 +63,7 @@ form {
     font-size: 2em;
   }
 }
+
+#output{
+  margin: 0rem 5rem;
+}

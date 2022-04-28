@@ -44,7 +44,6 @@ const formEl = document.querySelector('form').addEventListener('submit', (event)
     event.preventDefault();
 
     try {
-
         const weightInKg = +event.target.querySelector('#search').value;
         const measurements = transformMeasuring(weightInKg);
         measurements.weightInKg = weightInKg;
